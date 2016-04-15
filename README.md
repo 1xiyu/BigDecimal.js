@@ -1,7 +1,7 @@
 This is a copy of version 1.0.1 of the [STZ-IDA JavaScript translation](http://www.stz-ida.de/index.php?option=com_content&view=article&id=18&Itemid=32) of the `com.ibm.icu.math.BigDecimal` and `com.ibm.icu.math.MathContext` Java classes from the ICU4J project.
 
 ## Version History
-This version includes a small bug fix in the implementation of the pow() function. See [this answer on Stack Overflow](http://stackoverflow.com/questions/744099/javascript-bigdecimal-library/1575569#1575569) for more information.
+This version includes a small bug fix in the implementation of the pow() function. See [this answer on Stack Overflow](http://stackoverflow.com/questions/744099/javascript-bigdecimal-library/1575569#1575569) for more information (note that you will need 10K+ reputation on Stack Overflow in order to view the answer because the question was deleted by a moderator).
 
 ## License
 The author of the translation has stated:
